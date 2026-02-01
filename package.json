@@ -41,6 +41,6 @@
     "zabbix-promise": "^2.0.2"
   },
   "devDependencies": {
-    "eslint": "^7.9.0"
+    "eslint": "^9.26.0"
   }
 }
